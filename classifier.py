@@ -1,4 +1,3 @@
-import pandas as pd 
 import numpy as np
 import torch
 from transformers import BertTokenizer, BertForSequenceClassification, BertConfig
@@ -18,6 +17,9 @@ device = torch.device("cuda") if torch.cuda.is_available() else torch.device("cp
 nlp = spacy.load("en_core_web_sm")
 
 # This is the classifier to be added to the BERT model
+
+def b(a):
+    return 2*a
 class Net(nn.Module):
     def __init__(self):
         super(Net, self).__init__()
