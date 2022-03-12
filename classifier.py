@@ -18,8 +18,6 @@ nlp = spacy.load("en_core_web_sm")
 
 # This is the classifier to be added to the BERT model
 
-def b(a):
-    return 2*a
 class Net(nn.Module):
     def __init__(self):
         super(Net, self).__init__()
