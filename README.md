@@ -27,7 +27,7 @@ All aspects and reviewed objects and completed reviewed sentences are tokenized 
 
 ### 2.4 Results
 
-Finally we achieved accuracy **[76.86%, 77.13%, 76.33%,  77.93%,  76.06%]** of deviation set in 5 runs. Mean deviation accuracy is **76.86% ** using 332 seconds per run in GPU.
+Finally we achieved accuracy **[76.86%, 77.13%, 76.33%,  77.93%,  76.06%]** of deviation set in 5 runs. Mean deviation accuracy is **76.86%** using 332 seconds per run in GPU.
 
 ### 2.5 Improvement
 
