@@ -1,11 +1,6 @@
 # Sentiment Analysis for reviews of a restaurant
 
 
-## Authors
-- Xinyu HU(xinyu.hu@student-cs.fr)
-- Hugo VANDERPERRE(hugo.vanderperre@student-cs.fr)
-- Anurag CHATTERJEE(anurag.chatterjee@student-cs.fr)
-
 ## 1. Project Description
 This project aims to implement a classifier to predict aspect-based polarities of opinions in reviews of a restaurant.
 
